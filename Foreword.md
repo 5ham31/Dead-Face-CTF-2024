@@ -10,3 +10,4 @@ for example:
   - And lastly not frontloading my harder challenges to give people (and myself) enough time to solve them before the end of the competition.
 
 Thank you for reading these walkthroughs and I hope to see you again next year!
+
